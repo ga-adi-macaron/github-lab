@@ -1,0 +1,4 @@
+Links to the repositories for parts 1 and 2.
+
+https://github.com/ScottLindley/git-and-github-practice
+https://github.com/ScottLindley/git-and-github-practice-two
