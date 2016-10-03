@@ -1,0 +1,7 @@
+link for my repo
+https://github.com/cbrads61/git-and-github-practice-two
+
+
+link from scott’s repo
+https://github.com/ScottLindley/git-and-github-practice
+
